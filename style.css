@@ -1,0 +1,243 @@
+body{
+    background-color:slateblue;
+}
+.display{
+
+    background-color: black;
+    opacity: 0.7;
+    position: absolute;
+    width: 25%;
+    height: 10%;
+    top:20%;
+    left:40%;
+}
+.number{
+
+    background-color:dimgray;
+    opacity: 0.4;
+    position: absolute;
+    width: 25%;
+    height: 55%;
+    top:35%;
+    left:40%;
+}
+.reset{
+    background-color: red;
+    position: absolute;
+    bottom: 15px;
+    width:110px;
+    height: 5%;
+    left:25px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 7px;
+}
+.equal{
+    background-color:lightsteelblue;
+    position: absolute;
+    bottom: 15px;
+    width:110px;
+    height: 5%;
+    right:25px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 7px;
+}
+.seven{
+    background-color:white;
+    position: absolute;
+    top: 15px;
+    width:50px;
+    height: 7%;
+    left:25px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    border-radius: 10px;
+}
+.eight{
+    background-color:white;
+    position: absolute;
+    top: 15px;
+    width:50px;
+    height: 7%;
+    left:95px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    border-radius: 10px;
+
+}
+.nine{
+    background-color:white;
+    position: absolute;
+    top: 15px;
+    width:50px;
+    height: 7%;
+    left:165px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    border-radius: 10px;
+
+}
+.del{
+    background-color:white;
+    position: absolute;
+    top: 15px;
+    width:50px;
+    height: 7%;
+    left:235px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    border-radius: 10px;
+
+}
+.four{
+    background-color:white;
+    position: absolute;
+    top: 75px;
+    border-radius: 10px;
+    width:50px;
+    height: 7%;
+    left:25px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    
+
+}
+.five{
+    background-color:white;
+    position: absolute;
+    top: 75px;
+    border-radius: 10px;  
+    width:50px;
+    height: 7%;
+    left:95px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.six{
+    background-color:white;
+    position: absolute;
+    top: 75px;
+    border-radius: 10px; 
+    width:50px;
+    height: 7%;
+    left:165px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.plus{
+    background-color:white;
+    position: absolute;
+    top: 75px;
+    border-radius: 10px;   
+    width:50px;
+    height: 7%;
+    left:235px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.one{
+    background-color:white;
+    position: absolute;
+    border-radius: 10px;   
+    top: 135px;
+    width:50px;
+    height: 7%;
+    left:25px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.two{
+    background-color:white;
+    position: absolute;
+    top: 135px;
+    width:50px;
+    height: 7%;
+    left:95px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+    border-radius: 10px;   
+
+}
+.three{
+    background-color:white;
+    position: absolute;
+    border-radius: 10px;   
+    top: 135px;
+    width:50px;
+    height: 7%;
+    left:165px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.minus{
+    background-color:white;
+    position: absolute;
+    border-radius: 10px;   
+    top: 135px;
+    width:50px;
+    height: 7%;
+    left:235px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.dot{
+    background-color:white;
+    position: absolute;
+    top: 195px;
+    border-radius: 10px;   
+    width:50px;
+    height: 7%;
+    left:25px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.zero{
+    background-color:white;
+    position: absolute;
+    top: 195px;
+    border-radius: 10px;
+    width:50px;
+    height: 7%;
+    left:95px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.slash{
+    background-color:white;
+    position: absolute;
+    top: 195px;
+    border-radius: 10px;
+    width:50px;
+    height: 7%;
+    left:165px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
+.cross{
+    background-color:white;
+    position: absolute;
+    top: 195px;
+    border-radius: 10px;
+    width:50px;
+    height: 7%;
+    left:235px;
+    text-align: center;
+    color:black;
+    padding-top: 7px;
+}
